@@ -9,7 +9,7 @@
 - Configure AWS credentials: `aws configure`
 
 ## Clone repo
-- `git clone https://github.com/RABCbot/terraform.lambda-helloworld.git'
+- `git clone https://github.com/RABCbot/terraform.lambda-helloworld.git`
 
 ## Terraform
 - `terraform init`
