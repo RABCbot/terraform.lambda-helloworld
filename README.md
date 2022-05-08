@@ -9,13 +9,13 @@
 - Edit the sample.tfvars file and set AWS region where to deploy the lambda
 
 ## Terraform
-- terraform init
-- terraform apply
+- `terraform init`
+- `terraform apply`
 </br>Enter your region when prompt
 
 ## Test
-aws lambda invoke --function-name hello-world --region <your-region> output.txt
+`aws lambda invoke --function-name hello-world --region <your-region> output.txt`
 
 ## Teerform destroy
-- terraform destroy
+- `terraform destroy`
 </br>Enter your region when prompt
