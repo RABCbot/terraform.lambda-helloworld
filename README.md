@@ -19,6 +19,6 @@
 ## Test
 - `aws lambda invoke --function-name hello-world --region <your-region> output.txt`
 
-## Teerform destroy
+## Terraform destroy
 - `terraform destroy`
 </br>Enter your region when prompt
