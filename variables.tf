@@ -1,5 +1,5 @@
 variable "region" {
-  description = "AWS Target region"
+  description = "AWS Region where your lambda will be deployed"
   type        = string
 }
 
