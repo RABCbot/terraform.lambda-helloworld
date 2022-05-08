@@ -11,11 +11,11 @@
 ## Terraform
 - terraform init
 - terraform apply
-Enter your region when prompt
+</br>Enter your region when prompt
 
 ## Test
 aws lambda invoke --function-name hello-world --region <your-region> output.txt
 
 ## Teerform destroy
 - terraform destroy
-Enter your region when prompt
+</br>Enter your region when prompt
