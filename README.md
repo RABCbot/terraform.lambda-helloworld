@@ -1,4 +1,4 @@
-# Hello world lambda sample terraform
+# Terraform AWS Lambda Hello-world 
 
 ## Prerequisites
 - Terraform: `https://www.terraform.io/downloads`
