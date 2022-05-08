@@ -3,7 +3,7 @@
 ## Prerequisites
 - Terraform: `https://www.terraform.io/downloads`
 - AWS CLI: `https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html`
-- Git: `https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- Git: `https://git-scm.com/book/en/v2/Getting-Started-Installing-Git`
 
 ## Configuration
 - Set AWS credentials: `aws configure`
