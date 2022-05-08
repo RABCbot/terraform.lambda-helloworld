@@ -12,6 +12,7 @@
 - `git clone https://github.com/RABCbot/terraform.lambda-helloworld.git`
 
 ## Terraform
+- `cd terraform.lambda-helloworld`
 - `terraform init`
 - `terraform apply`
 </br>Enter the aws region when prompt
