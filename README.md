@@ -1,12 +1,15 @@
 # Hello world lambda sample terraform
 
 ## Prerequisites
-- Terraform
-- AWS CLI
+- Install Terraform
+- Install AWS CLI
+- Install git
 
 ## Configuration
-- Run aws configure 
-- Edit the sample.tfvars file and set AWS region where to deploy the lambda
+- Configure AWS credentials: `aws configure`
+
+## Clone repo
+- `git clone https://github.com/RABCbot/terraform.lambda-helloworld.git'
 
 ## Terraform
 - `terraform init`
@@ -14,7 +17,7 @@
 </br>Enter your region when prompt
 
 ## Test
-`aws lambda invoke --function-name hello-world --region <your-region> output.txt`
+- `aws lambda invoke --function-name hello-world --region <your-region> output.txt`
 
 ## Teerform destroy
 - `terraform destroy`
