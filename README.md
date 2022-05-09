@@ -15,11 +15,11 @@
 - `cd terraform.lambda-helloworld`
 - `terraform init`
 - `terraform apply`
-</br>Enter the aws region when prompt
+</br>Enter the aws region when prompted
 
 ## Test
 - `aws lambda invoke --function-name hello-world --region <your-region> output.txt`
 
 ## Terraform destroy
 - `terraform destroy`
-</br>Enter the aws region when prompt
+</br>Enter the aws region when prompted
